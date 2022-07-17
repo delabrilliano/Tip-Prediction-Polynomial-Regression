@@ -12,5 +12,5 @@ This model uses multiple linear regression algorithm with polynomial features to
 
 _**Get in Touch:**_
 
-| [Linkedin](https://www.linkedin.com/in/delabrilliano-ismail-05758715a/) | [Github](https://github.com/delabrilliano) | [Tableau](https://public.tableau.com/app/profile/delabrilliano.ismail)
+| [Linkedin](https://www.linkedin.com/in/delabrilliano-ismail-05758715a/) | [Github](https://github.com/delabrilliano) | [Tableau](https://public.tableau.com/app/profile/delabrilliano.ismail) |
 <hr>
