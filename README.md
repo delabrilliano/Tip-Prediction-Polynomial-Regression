@@ -1,7 +1,7 @@
 # **Tip Prediction Using Polynomial Regression**
 ![image](https://raw.githubusercontent.com/delabrilliano/Tip-Prediction-Polynomial-Regression/main/image/purwadhika-logo.jpeg)
 
-Created by: Delabrilliano Ismail
+Created by: _**Delabrilliano Ismail**_
 <hr>
 
 This model was created for a quick task given by Purwadhika Digital Technology School as part of the Data Science and Machine Learning bootcamp.
